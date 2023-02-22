@@ -9,7 +9,7 @@
 	</parent>
 
 	<artifactId>web-app-services-helloworld</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<dependencies>
 		<!-- Project -->
